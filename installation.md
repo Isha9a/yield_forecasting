@@ -114,7 +114,7 @@ to install the CDS API key on your local machine/cluster
       (ii)Copy a 2 line code, which shows a url and your own uid:API key details as followed:
         
       A.For CDS users, Go to [this](https://cds.climate.copernicus.eu/api-how-to/) page and copy the 2 line code                     displayed in the black box in the "Install the CDS API key" section as shown below:      
-      <img src="_/images/AGRE5_Step2_CDSAPIUrl.png" alt="CDSurl" class="bg-primary" width="700px">
+      <img src="/images/AGRE5_Step2_CDSAPIUrl.png" alt="CDSurl" class="bg-primary" width="700px">
               
       B.For ADS users, Go to [this](https://ads.atmosphere.copernicus.eu/api-how-to/)page and copy the 2 line code                   displayed in the black box in the "Install the CDS API key" section as shown below:      
       <img src="C:\Users\ishaa\Desktop\Tanzania_Rice\yield_forecasting\images\AGRE5_Step2_ADSAPIUrl.png" alt="ADSurl" class="bg-primary" width="700px">
